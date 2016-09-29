@@ -1,2 +1,3 @@
 # hello-world
-Tutorial Repo
+
+So let's find out what git is all about!
